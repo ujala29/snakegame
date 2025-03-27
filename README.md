@@ -1,6 +1,4 @@
-Sure! Here's a complete GitHub README for your Snake Game project. I'll add some emojis to keep it fun and engaging.
 
----
 
 # 🐍 Snake Game
 
@@ -58,11 +56,4 @@ To run this game locally on your machine, follow these steps:
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## 💬 Contributing
 
-Feel free to open issues or submit pull requests if you want to contribute to this project! 😊  
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-Let me know if you'd like any changes or additions!
