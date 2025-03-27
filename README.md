@@ -49,8 +49,8 @@ To run this game locally on your machine, follow these steps:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for game logic and interaction
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) for the user interface
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for styling (if applicable)
-- [Python](https://www.python.org/) for a console-based version (if applicable)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for styling
+
 
 ## 📄 License
 
